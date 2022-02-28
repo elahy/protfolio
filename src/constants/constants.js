@@ -4,8 +4,8 @@ export const projects = [
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.",
     image: "/images/1.png",
-    tags: ["Mongo", "Express", "React", "Node"],
-    source: "https://google.com",
+    tags: ["React", "Node", "MongoBD", "Express"],
+    source: "https://github.com/elahy/GiftCart",
     visit: "https://giftcart.herokuapp.com",
     id: 0,
   },
@@ -14,8 +14,8 @@ export const projects = [
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.",
     image: "/images/2.png",
-    tags: ["React", "JavaScript"],
-    source: "https://google.com",
+    tags: ["Javascript", "React", "Redux"],
+    source: "https://github.com/elahy/ITStore",
     visit: "https://itstore.netlify.app",
     id: 1,
   },

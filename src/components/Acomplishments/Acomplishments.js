@@ -9,7 +9,7 @@ import { Box, Boxes, BoxNum, BoxText } from "./AcomplishmentsStyles";
 
 const data = [
   { number: 10, text: "Open Source Projects" },
-  { number: 100, text: "Problem Solved in Leetcode" },
+  { number: 200, text: "Problem Solved in Leetcode" },
 ];
 
 const Acomplishments = () => (
