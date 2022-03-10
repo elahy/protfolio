@@ -12,7 +12,7 @@ export const projects = [
   {
     title: "IT Store",
     description:
-      "IT E-commerce website with both user, seller and Admin dashboard, All funcionality of FakeStore API as backend.",
+      "IT E-commerce Website with User, Seller and Admin dashboard, All funcionality of FakeStore API as backend.",
     image: "/images/2.png",
     tags: ["Javascript", "React", "Redux", "Material UI"],
     source: "https://github.com/elahy/ITStore",
