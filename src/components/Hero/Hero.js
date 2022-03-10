@@ -16,10 +16,8 @@ const Hero = (props) => (
           Welcome! <br />I am A.S.S.M.Q-E-Elahy
         </SectionTitle>
         <SectionText>
-          This my personal portfolio website. Lorem ipsum dolor sit amet,
-          consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-          labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-          exercitation.
+          Always Curious, Courageous, Disciplined, Team Player currently looking
+          for entry level position to gain professional experience.
         </SectionText>
         <Button onClick={props.handleClick}>Learn More</Button>
       </LeftSection>

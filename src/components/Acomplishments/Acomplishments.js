@@ -8,7 +8,8 @@ import {
 import { Box, Boxes, BoxNum, BoxText } from "./AcomplishmentsStyles";
 
 const data = [
-  { number: 10, text: "Open Source Projects" },
+  { number: 2, text: "Contributed Open Source Projects" },
+  { number: 10, text: "Personal Projects Completed" },
   { number: 200, text: "Problem Solved in Leetcode" },
 ];
 
